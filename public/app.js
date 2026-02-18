@@ -8,7 +8,7 @@ const todoList = document.getElementById('todoList');
 const totalCount = document.getElementById('totalCount');
 const completedCount = document.getElementById('completedCount');
 
-// State eiei
+// State 
 let todos = [];
 
 // Fetch all todos
